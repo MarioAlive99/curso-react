@@ -12,7 +12,12 @@ Al finalizar el curso, los estudiantes habrán adquirido las habilidades necesar
 # Lecciones del curso
 | Imagen | Nombre | Link |
 |----------|------|---------------|
-|<img src="https://github.com/user-attachments/assets/c19193f5-abc3-47e1-924f-a7da5ba30306" width="400"/>|Variables let en React|---------------|
+|<img src="https://github.com/user-attachments/assets/c19193f5-abc3-47e1-924f-a7da5ba30306" width="400"/>|Variables let en JavaScript|---------------|
+|<img src="https://github.com/user-attachments/assets/0bcf8d15-a59e-4dbd-8102-4bcdf203925f" width="400"/>|Variables const en JavaScript|---------------|
+|<img src="https://github.com/user-attachments/assets/59623528-6ffb-4546-b012-aa0808359f73" width="400"/>|Tipos de datos en JavaScript|---------------|
+|<img src="https://github.com/user-attachments/assets/8497bfa8-faf1-442b-817b-984e28e6af40" width="400"/>|Objetos y destructiring en JS|---------------|
+
+
 
 # Proyectos de React
 | Imagen | Nombre | Link del repositorio |

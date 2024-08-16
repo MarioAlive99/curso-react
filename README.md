@@ -9,16 +9,19 @@ El curso incluye varios proyectos prácticos que permiten a los estudiantes apli
 
 Al finalizar el curso, los estudiantes habrán adquirido las habilidades necesarias para crear aplicaciones web interactivas utilizando React y estarán preparados para afrontar proyectos más complejos en su carrera como desarrolladores.
 
-# Lecciones del curso
+# ⚠ ¡ALTO!
+Antes de aprender React, es crucial dominar JavaScript porque React es una biblioteca de JavaScript para construir interfaces de usuario. Aqui te doy el curso para que lo vayas aprendiendo.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0b8ab143-8b62-4469-8918-dd4f10ce5c01" alt="Curso JavaScript" width="300"/> <br> <strong><span style="color:yellow;">Curso completo de JavaScript <br/> <a href="https://www.google.com" target="_blank" style="color:blue;">Link</a></span></strong>
+</div>
+
+
+# Lecciones del curso. [Proximamente]
 | Imagen | Nombre | Link |
 |----------|------|---------------|
-|<img src="https://github.com/user-attachments/assets/c19193f5-abc3-47e1-924f-a7da5ba30306" width="400"/>|Variables let en JavaScript|---------------|
-|<img src="https://github.com/user-attachments/assets/0bcf8d15-a59e-4dbd-8102-4bcdf203925f" width="400"/>|Variables const en JavaScript|---------------|
-|<img src="https://github.com/user-attachments/assets/59623528-6ffb-4546-b012-aa0808359f73" width="400"/>|Tipos de datos en JavaScript|---------------|
-|<img src="https://github.com/user-attachments/assets/8497bfa8-faf1-442b-817b-984e28e6af40" width="400"/>|Objetos y destructiring en JS|---------------|
 
 
 
-# Proyectos de React
+# Proyectos de React [Proximamente]
 | Imagen | Nombre | Link del repositorio |
 |----------|------|---------------|

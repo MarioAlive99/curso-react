@@ -12,7 +12,7 @@ Al finalizar el curso, los estudiantes habrán adquirido las habilidades necesar
 # ⚠ ¡ALTO!
 Antes de aprender React, es crucial dominar JavaScript porque React es una biblioteca de JavaScript para construir interfaces de usuario. Aqui te doy el curso para que lo vayas aprendiendo.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0b8ab143-8b62-4469-8918-dd4f10ce5c01" alt="Curso JavaScript" width="300"/> <br> <strong><span style="color:yellow;">Curso completo de JavaScript <br/> <a href="https://www.google.com" target="_blank" style="color:blue;">Link</a></span></strong>
+  <img src="https://github.com/user-attachments/assets/0b8ab143-8b62-4469-8918-dd4f10ce5c01" alt="Curso JavaScript" width="300"/> <br> <strong><span style="color:yellow;">Curso completo de JavaScript <br/> <a href="https://github.com/MarioAlive99/curso-javascript" target="_blank" style="color:blue;">Link</a></span></strong>
 </div>
 
 
